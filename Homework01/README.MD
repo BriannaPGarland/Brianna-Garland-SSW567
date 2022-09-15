@@ -1,11 +1,20 @@
-#Deliverable 2: Screenshots of Programming and testing working 
+# Deliverable 2: Screenshots of Programming and testing working 
+#### Sample of something that is a right trangle and another type of triangle (scalene)
 ![Alt text](https://github.com/BriannaPGarland/Brianna-Garland-SSW567/blob/main/Homework01/Screen%20Shot%202022-09-14%20at%208.18.41%20PM.png)
+
+#### Showing an example of when I purposely failed a test by entering the wrong string to show its working 
 ![Alt text](https://github.com/BriannaPGarland/Brianna-Garland-SSW567/blob/main/Homework01/Screen%20Shot%202022-09-14%20at%208.18.55%20PM.png)
+
+#### Showing an example of an isoceles triangle
 ![Alt text](https://github.com/BriannaPGarland/Brianna-Garland-SSW567/blob/main/Homework01/Screen%20Shot%202022-09-14%20at%208.20.12%20PM.png)
+
+#### Showing an example of a scalene triangle that is not a right triangle 
 ![Alt text](https://github.com/BriannaPGarland/Brianna-Garland-SSW567/blob/main/Homework01/Screen%20Shot%202022-09-14%20at%208.20.44%20PM.png)
+
+#### Showing an example of an equalateral Triangle 
 ![Alt text](https://github.com/BriannaPGarland/Brianna-Garland-SSW567/blob/main/Homework01/Screen%20Shot%202022-09-14%20at%208.21.01%20PM.png)
 
-#Deliverable 3 
+# Deliverable 3 
 ### What challenges did you encounter with this assignment, if any? 
     When completing this assignment i did encounter some challenges. The main
     challenge I faced was learning how to use pytest. I knew how to code the 
