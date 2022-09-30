@@ -1,4 +1,8 @@
-Homework 2a
+# Homework 2a& 2b
+
+### Build Status from Travis Ci 
+[![build status of master](https://travis-ci.com/tsmith567/Triangle567.svg?branch=master)](https://travis-ci.com/tsmith567/Triangle567)
+
 
 NOTE:  you should do this assignment (02a) before you attempt assignment (02b)
 
