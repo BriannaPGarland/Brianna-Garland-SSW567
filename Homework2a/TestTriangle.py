@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
 Updated Jan 21, 2018
 The primary goal of this file is to demonstrate a simple unittest implementation
-
 @author: jrr
 @author: rk
 """
@@ -67,7 +65,7 @@ class TestTriangles(unittest.TestCase):
 
     #Test for a scalene Triangle 
     def testScaleneTrianglesB(self): 
-        self.assertEqual(classifyTriangle(3,4,6),'Isoceles','3,4,6 should be isoceles')
+        self.assertEqual(classifyTriangle(3,4,6),'Scalene','3,4,6 should be Scalene')
 
     #Test for not a triangle values 
     def testNotATriangle(self): 
@@ -76,4 +74,3 @@ class TestTriangles(unittest.TestCase):
 if __name__ == '__main__':
     print('Running unit tests')
     unittest.main()
-
